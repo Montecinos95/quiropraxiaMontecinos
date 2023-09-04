@@ -1,0 +1,15 @@
+body{
+    background-image: url(./Media/Images/white-plaster-texture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.SectionOne .container-fluid{
+    background-color: rgba(0, 0, 0, 0.01);
+}
+
+.container-fluid h1{
+    color: rgb(113, 207, 202);
+    font-weight: bold;
+}
